@@ -13,12 +13,11 @@ Connect with me!
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Database Management (AlgoExpert)</b>
-  - [Example](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Database Management</b>
+  - [Olympics 24 Swimming Database Research](https://github.com/hyxji/Olympics24_Swimming)
 - <b>C# (.NET Desktop Applications)</b>
   - [Simple Bank User Management](https://github.com/hyxji/SimpleBankUserManagement)
-- <b>Java</b>
-  - [Example](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>More to come...</b>
 
 
 

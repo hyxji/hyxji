@@ -16,7 +16,7 @@ Connect with me!
 - <b>Database Management (AlgoExpert)</b>
   - [Example](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Example)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Simple Bank User Management](https://github.com/hyxji/SimpleBankUserManagement)
 - <b>Java</b>
   - [Example](https://github.com/joshmadakor1/Algorithms-Practice)
 

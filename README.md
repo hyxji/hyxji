@@ -19,7 +19,7 @@ Connect with me!
   - [Simple Bank User Management](https://github.com/hyxji/SimpleBankUserManagement)
 - <b>Kotlin (Android Applications)</b>
   - [Calorie Tracking App]()
-  - [Easy Student Database]()
+  - [Easy Student Database](https://github.com/hyxji/SimpleStudentDatabase)
 - <b>More to come...</b>
 
 

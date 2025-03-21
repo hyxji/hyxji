@@ -1,6 +1,6 @@
 <h1>Hi, I'm Izhary Fortun!
 
-<h2>🚀 About Me</h2>
+<h2>🤗 About Me</h2>
 I am a third-year Software Engineering student passionate about coding, video games, music and animals :). I have experience in Java, C & C#, .NET, SQL and Android Development. I am expanding my knowledge in algorithms, UI/UX and I am currently studying Apple Ecosystems and development using Swift!
 
 <br>  
@@ -17,6 +17,9 @@ Connect with me!
   - [Olympics 24 Swimming Database Research](https://github.com/hyxji/Olympics24_Swimming)
 - <b>C# (.NET Desktop Applications)</b>
   - [Simple Bank User Management](https://github.com/hyxji/SimpleBankUserManagement)
+- <b>Kotlin (Android Applications)</b>
+  - [Calorie Tracking App]()
+  - [Easy Student Database]()
 - <b>More to come...</b>
 
 
